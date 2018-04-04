@@ -10,9 +10,3 @@ template is provided which ensures the images are run with the correct
 configuration.
 
 .. include:: jupyter-project-images/issues-with-the-images.rst
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-
-   jupyter-project-images/issues-with-the-images
