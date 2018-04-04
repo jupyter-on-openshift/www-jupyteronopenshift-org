@@ -44,6 +44,8 @@ A range of example deployments and configurations is also provided
 including custom deployments for Jupyter notebooks, JupyterHub, notebook
 viewer, kernel gateways and more.
 
+Check out the table of contents for everything that is provided.
+
 Why use OpenShift?
 ------------------
 
