@@ -37,8 +37,8 @@ follows:
 * Source code and templates for building and deploying JupyterHub to
   OpenShift. This image is S2I enabled and can be customized using the S2I
   process to extend it with your own custom configurations, such as
-  specifying the authentication provider you need to use, form options for
-  selecting the Jupyter notebook image to use, etc.
+  specifying the authentication provider you need to use, or adding form
+  options to allow users to select the Jupyter notebook image to use.
 
 A range of example deployments and configurations is also provided
 including custom deployments for Jupyter notebooks, JupyterHub, notebook
