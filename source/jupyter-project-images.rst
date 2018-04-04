@@ -10,3 +10,4 @@ template is provided which ensures the images are run with the correct
 configuration.
 
 .. include:: jupyter-project-images/issues-with-the-images.rst
+.. include:: jupyter-project-images/available-notebook-images.rst

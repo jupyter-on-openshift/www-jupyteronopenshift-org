@@ -1,6 +1,5 @@
-=========================
 Available Notebook Images
-=========================
+-------------------------
 
 The images which the Jupyter Project provides via Docker Hub are as
 follows.
