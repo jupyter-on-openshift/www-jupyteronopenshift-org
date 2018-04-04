@@ -12,9 +12,6 @@ could be a single Jupyter notebook instance, or a teaching/research
 environment for more than one user, using JupyterHub to manage user access
 and spawning of Jupyter notebooks.
 
-*Note that this site is still in the process of being populated with
-everything. Keep checking back for new content as it is added.*
-
 .. _OpenShift: https://www.openshift.org/
 
 What is Provided?
@@ -45,7 +42,9 @@ A range of example deployments and configurations is also provided
 including custom deployments for Jupyter notebooks, JupyterHub, notebook
 viewer, kernel gateways and more.
 
-Check out the table of contents for everything that is provided.
+*Note that this site is still in the process of being populated with
+content. Keep checking back for new content as it is added. Check out
+the table of contents for everything that is provided so far.*
 
 Why use OpenShift?
 ------------------
