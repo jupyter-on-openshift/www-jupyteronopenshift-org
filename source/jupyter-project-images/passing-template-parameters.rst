@@ -11,7 +11,7 @@ you can pass template parameters using the ``--param`` option.
       --param NOTEBOOK_IMAGE=jupyter/scipy-notebook:latest \
       --param NOTEBOOK_PASSWORD=mypassword
 
-You can deploy any of the Jupyter Project docker-stacks images.
+You can deploy any of the Jupyter Project images.
 
 * jupyter/base-notebook
 * jupyter/r-notebook

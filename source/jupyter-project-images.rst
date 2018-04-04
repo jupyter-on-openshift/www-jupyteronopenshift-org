@@ -14,3 +14,9 @@ configuration.
 .. include:: jupyter-project-images/loading-the-templates.rst
 .. include:: jupyter-project-images/deploying-a-notebook.rst
 .. include:: jupyter-project-images/passing-template-parameters.rst
+.. include:: jupyter-project-images/deleting-the-notebook-instance.rst
+.. include:: jupyter-project-images/enabling-jupyterlab-interface.rst
+.. include:: jupyter-project-images/adding-persistent-storage.rst
+.. include:: jupyter-project-images/customizing-the-configuration.rst
+.. include:: jupyter-project-images/changing-the-notebook-password.rst
+.. include:: jupyter-project-images/deploying-from-a-custom-image.rst
