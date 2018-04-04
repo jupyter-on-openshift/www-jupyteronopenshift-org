@@ -10,7 +10,8 @@ template is provided which ensures the images are run with the correct
 configuration.
 
 .. include:: jupyter-project-images/available-notebook-images.rst
-.. include:: jupyter-project-images/issues-with-the-images.rst
+.. include:: jupyter-project-images/issues-with-permissions.rst
+.. include:: jupyter-project-images/issues-with-image-size.rst
 .. include:: jupyter-project-images/loading-the-templates.rst
 .. include:: jupyter-project-images/deploying-a-notebook.rst
 .. include:: jupyter-project-images/passing-template-parameters.rst
