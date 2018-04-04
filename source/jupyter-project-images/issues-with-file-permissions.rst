@@ -1,5 +1,5 @@
-Issue with File Permissions
----------------------------
+Issues with File Permissions
+----------------------------
 
 The reason that the Jupyter Project images will not run out of the box on
 OpenShift, is that OpenShift is a multitenant environment designed for use
