@@ -23,22 +23,22 @@ A sample of what is provided by the Jupyter on OpenShift project is as
 follows:
 
 * Templates for deploying the Jupyter notebook images created by the
-Jupyter Project team.
+  Jupyter Project team.
 
 * Source-to-Image (S2I) builder scripts for creating custom Jupyter
-notebook images based on those from the Jupyter Project team.
+  notebook images based on those from the Jupyter Project team.
 
 * Source code and templates for building and deploying a base Jupyter
-notebook image in OpenShift using the supported Python base images provided
-by your OpenShift environment. This image is S2I enabled and can also be
-used to build custom Jupyter notebook images, including just the Python
-packages you need, as well as notebook and data files.
+  notebook image in OpenShift using the supported Python base images
+  provided by your OpenShift environment. This image is S2I enabled and can
+  also be used to build custom Jupyter notebook images, including just the
+  Python packages you need, as well as notebook and data files.
 
 * Source code and templates for building and deploying JupyterHub to
-OpenShift. This image is S2I enabled and can be customized using the S2I
-process to extend it with your own custom configurations, such as
-specifying the authentication provider you need to use, form options for
-selecting the Jupyter notebook image to use, etc.
+  OpenShift. This image is S2I enabled and can be customized using the S2I
+  process to extend it with your own custom configurations, such as
+  specifying the authentication provider you need to use, form options for
+  selecting the Jupyter notebook image to use, etc.
 
 A range of example deployments and configurations is also provided
 including custom deployments for Jupyter notebooks, JupyterHub, notebook
