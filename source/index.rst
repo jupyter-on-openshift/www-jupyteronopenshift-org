@@ -80,7 +80,8 @@ nor need to know how to administer the platform.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Jupyter Project Images
    :hidden:
 
-   jupyter-project-images/available-images
+   index
+   jupyter-project-images
+   s2i-notebook-images
