@@ -9,10 +9,4 @@ a standard OpenShift installation. To make it easier to run the images, a
 template is provided which ensures the images are run with the correct
 configuration.
 
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-
-   issues-with-the-images
-
-.. include:: issues-with-the-images
+.. include:: jupyter-project-images/issues-with-the-images
