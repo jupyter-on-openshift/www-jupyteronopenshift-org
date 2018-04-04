@@ -19,7 +19,8 @@ When the Jupyter notebook images are run under OpenShift, the user ID they
 are required to run as, has a very high user ID for which there is no entry
 in the ``/etc/passwd`` file of the image. Because there is no entry, this
 results in the group ID used being ``root``. As a consequence, the running
-application cannot write files to the container filesystem.
+application cannot write files to the container filesystem, as it is neither
+running as the correct user ID, or in the correct group.
 
 One could override the security measures enforced by OpenShift and allow
 the image to run as user ID it wants to, but this will not be possible if
