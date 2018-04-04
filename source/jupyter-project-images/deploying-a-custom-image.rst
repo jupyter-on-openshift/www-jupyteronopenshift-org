@@ -1,10 +1,10 @@
-Deploying from a Custom Image
------------------------------
+Deploying a Custom Image
+------------------------
 
-If you want to deploy a custom variant of the Jupyter Project docker-stacks
-images, you can replace the image name with that of your own. If the image
-is not stored on Docker Hub, but some other public image registry, prefix
-the name of the image with the image registry host details.
+If you want to deploy a custom variant of the Jupyter Project images, you
+can replace the image name with that of your own. If the image is not
+stored on Docker Hub, but some other public image registry, prefix the name
+of the image with the image registry host details.
 
 If the image is in your OpenShift project, because you imported the image
 into OpenShift, or used the docker build strategy of OpenShift to build a
