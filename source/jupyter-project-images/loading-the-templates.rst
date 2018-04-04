@@ -14,4 +14,5 @@ This should create the following templates::
     jupyter-notebook
 
 The template can be used from the command line using the ``oc new-app``
-command, or from the OpenShift web console by selecting *Add to Project*.
+command, or from the OpenShift web console by selecting *Add to Project*
+and then *Select from Project*.
