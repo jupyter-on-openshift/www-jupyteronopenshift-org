@@ -77,10 +77,3 @@ other applications which are a part of the Jupyter ecosystem. OpenShift
 provides a more friendly environment so you can deploy your applications
 as a normal end user of the platform. You do not need administrator access,
 nor need to know how to administer the platform.
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-
-   jupyter-project-images
-   s2i-notebook-images
