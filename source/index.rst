@@ -1,11 +1,6 @@
 Jupyter on OpenShift
 ====================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Jupyter on OpenShift:
-   :hidden:
-
 The Jupyter on OpenShift project provides you with the instructions you
 need to be able to successfully deploy Jupyter notebooks on OpenShift_. This
 could be a single Jupyter notebook instance, or a teaching/research
