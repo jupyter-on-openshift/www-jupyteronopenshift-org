@@ -22,7 +22,7 @@ Because the configuration is Python code, ensure any indenting is correct.
 Any errors in the configuration file will cause the notebook to fail when
 starting.
 
-If the error is in the config map, edit it again to fix it and trigged a
+If the error is in the config map, edit it again to fix it and trigger a
 new deployment if necessary by running::
 
     oc rollout latest dc/mynotebook
