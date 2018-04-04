@@ -14,4 +14,4 @@ you can run the command::
 Note that when you open a notebook and a new kernel created, it is created
 as a sub process in the same container, so opening multiple notebooks at
 the same time will increase memory usage. Open too many and you may hit the
-limit imposed when a quiota is in place.
+limit imposed when a quota is in place.
