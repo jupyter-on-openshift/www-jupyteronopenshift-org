@@ -21,4 +21,4 @@ configuration.
 .. include:: jupyter-project-images/adding-persistent-storage.rst
 .. include:: jupyter-project-images/customizing-the-configuration.rst
 .. include:: jupyter-project-images/changing-the-notebook-password.rst
-.. include:: jupyter-project-images/deploying-from-a-custom-image.rst
+.. include:: jupyter-project-images/deploying-a-custom-image.rst
