@@ -86,4 +86,4 @@ nor need to know how to administer the platform.
    :maxdepth: 2
    :caption: Jupyter Project Images
 
-    jupyter-project-images/available-images
+   jupyter-project-images/available-images
